@@ -1,6 +1,6 @@
 # MLOPS_Andrew_Ng
 
-* [앤드류 응 MLOps 강의](https://youtube.com/playlist?list=PLSpnHWTONcJ0CuoitGKXXj7ytOxOTyqvY){:target="_blank"}
+* [앤드류 응 MLOps 강의](https://youtube.com/playlist?list=PLSpnHWTONcJ0CuoitGKXXj7ytOxOTyqvY)
 
 <table style="border: 2px;">
   <tr>
@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td > 1 </td>
-    <td > [lesson 1 note](https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson1/note.md) </td>
+    <td > <a src="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson1/note.md"> lesson 1 note </td>
     <td >  </td>
   </tr>
   <tr>
