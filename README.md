@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td > 1 </td>
-    <td >  </td>
+    <td > [lesson 1 note](https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson1/note.md) </td>
     <td >  </td>
   </tr>
   <tr>
