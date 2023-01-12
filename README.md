@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td > 1 </td>
-    <td > <a src="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson1/note.md"> lesson 1 note </a> </td>
+    <td > <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson1/note.md"> lesson 1 note </a> </td>
     <td >  </td>
   </tr>
   <tr>
