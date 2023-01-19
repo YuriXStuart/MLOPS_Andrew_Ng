@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td> 5 </td>
-    <td>  </td>
+    <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson5/note.md"> lesson 5 note </a> </td>
     <td>  </td>
   </tr>
   <tr>
