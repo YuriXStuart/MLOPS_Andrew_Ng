@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> 4 </td>
-    <td>  </td>
+    <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson4/note.md"> lesson 4 note </a> </td>
     <td>  </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td> 6 </td>
-    <td>  </td>
+      <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson6/note.md"> lesson 6 note </a> </td>
     <td>  </td>
   </tr>
   <tr>
