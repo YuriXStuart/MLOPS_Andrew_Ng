@@ -11,7 +11,7 @@
 <br><center><img src= "./fig1.png" width="70%"></center><br>
     - ML 모델은 알고리즘 + 하이퍼파라미터 + 데이터로 이루어짐
     - 하이퍼파라미터 조정은 제한적이기 때문에 주로 코드와 데이터 조정에 집중
-    <br><center><img src= "./fig2.png" width="80%"></center><br>
+    <br><center><img src= "./fig2.png" width="60%"></center><br>
     - 위 그림과 같이 모델 훈련의 순환 과정을 여러번 빠르게 반복하는 것이 성능 개선의 열쇠
         - 순환 과정에서 데이터를 어떻게 수정할지, 모델 및 하이퍼파라미터를 어떻게 조정할지 경험을 습득하게 됨
         - Audit Performance: 배포 전 모델이 잘 작동하는지 최종 감사
