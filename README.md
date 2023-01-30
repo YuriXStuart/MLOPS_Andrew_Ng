@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td> 8 </td>
-    <td>  </td>
+    <td> skip </td>
     <td>  </td>
   </tr>
   <tr>
@@ -56,6 +56,16 @@
   <tr>
     <td> 10 </td>
     <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson10/note.md"> lesson 10 note </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> 11 </td>
+    <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson11/note.md"> lesson 11 note </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> 12 </td>
+    <td>  </td>
     <td>  </td>
   </tr>
 </table>
