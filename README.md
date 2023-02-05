@@ -73,4 +73,9 @@
     <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson13/note.md"> lesson 13 note </a> </td>
     <td>  </td>
   </tr>
+  <tr>
+  <td> 14 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson14/note.md"> lesson 14 note </a> </td>
+  <td>  </td>
+</tr>
 </table>
