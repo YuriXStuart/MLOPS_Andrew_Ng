@@ -77,5 +77,20 @@
   <td> 14 </td>
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson14/note.md"> lesson 14 note </a> </td>
   <td>  </td>
-</tr>
+  </tr>
+  <tr>
+  <td> 15 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson15/note.md"> lesson 15 note </a> </td>
+  <td>  </td>
+  </tr>
+  <tr>
+  <td> 16 </td>
+  <td>  </td>
+  <td>  </td>
+  </tr>
+  <tr>
+  <td> 17 </td>
+  <td>  </td>
+  <td>  </td>
+  </tr>
 </table>
