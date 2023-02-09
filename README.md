@@ -90,7 +90,7 @@
   </tr>
   <tr>
   <td> 17 </td>
-  <td>  </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson17/note.md"> lesson 17 note </a> </td>
   <td>  </td>
   </tr>
 </table>
