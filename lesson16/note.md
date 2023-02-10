@@ -33,3 +33,11 @@
 - Precision 관점에서는 모델1이 낫고, Recall 관점에서는 Model2가 낫다. F1 score는 두 지표의 조화평균인데, 더 낮은 숫자를 강조하는 효과가 있다. 
 - 두 모델의 성능이 Precision은 비슷한 반면, Recall은 모델2가 모델1 보다 현저히 낮다. F1 score는 precsion과 recall을 종합해 모델1이 더 나은 모델이라는 결론을 제공한다.
 - 다만, precision과 recall을 종합하는 가중치는 F1 score 방식 외에도 여러가지가 존재한다.
+
+## Multi-class 성능지표
+<br><center><img src= "./fig4.jpg" width="90%"></center>
+<center>그림4. 편향 데이터 & Multi-Class에서의 F1-score</center><br>
+
+- 다중 레이블에서의 성과 지표
+- 제조 이상탐지에서는 소수의 결함 제품을 예측해야하기 때문에 이상인지, 결함인지 판단하는 정확도 보다(precision)는 이상 제품에 대한 예측 정확도를 높이고 싶어한다.(recall) 따라서 precision이 비교적 낮은 수치인 것은 큰 문제가 되지 않는다. F1 score를 통해 precision이 비교적 낮더라도 recall 성능이 좋은 결함 유형을 찾을 수 있다.
+- F1-score로 결함 유형별 이상 탐지 성능을 순위화하고, 일의 우선순위를 정할 수 있다.
