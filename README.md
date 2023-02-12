@@ -85,12 +85,16 @@
   </tr>
   <tr>
   <td> 16 </td>
-  <td>  </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson16/note.md"> lesson 16 note </a></td>
   <td>  </td>
   </tr>
   <tr>
   <td> 17 </td>
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson17/note.md"> lesson 17 note </a> </td>
+  <td>  </td>
+  </tr>
+  <td> 18 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson18/note.md"> lesson 18 note </a> </td>
   <td>  </td>
   </tr>
 </table>
