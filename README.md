@@ -6,7 +6,7 @@
   <tr>
     <th> Lesson </th>
     <th> Notes </th>
-    <th> Notebook </th>
+    <th> Etc </th>
   </tr>
   <tr>
     <td > 1 </td>
@@ -88,13 +88,29 @@
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson16/note.md"> lesson 16 note </a></td>
   <td>  </td>
   </tr>
+
   <tr>
   <td> 17 </td>
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson17/note.md"> lesson 17 note </a> </td>
   <td>  </td>
   </tr>
+
+  <tr>
   <td> 18 </td>
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson18/note.md"> lesson 18 note </a> </td>
   <td>  </td>
   </tr>
+
+  <tr>
+  <td> 19 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson19/note.md"> lesson 19 note </a> </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 20 </td>
+  <td>  </td>
+  <td>  </td>
+  </tr>
+
 </table>
