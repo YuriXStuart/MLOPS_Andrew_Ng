@@ -113,4 +113,16 @@
   <td>  </td>
   </tr>
 
+  <tr>
+  <td> 21 </td>
+<td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson21/note.md"> lesson 21 note </a> </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 22 </td>
+  <td>  </td>
+  <td>  </td>
+  </tr>
+
 </table>
