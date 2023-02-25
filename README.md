@@ -133,7 +133,7 @@
 
   <tr>
   <td> 24 </td>
-  <td>  </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson24/note.md"> lesson 24 note </a>  </td>
   <td>  </td>
   </tr>
 
@@ -145,7 +145,7 @@
 
   <tr>
   <td> 26 </td>
-  <td>  </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson26/note.md"> lesson 26 note </a>  </td>
   <td>  </td>
   </tr>
 
