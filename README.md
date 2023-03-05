@@ -149,4 +149,28 @@
   <td>  </td>
   </tr>
 
+  <tr>
+  <td> 27 </td>
+  <td>  </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 28 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson28/note.md"> lesson 28 note </a>  </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 29 </td>
+  <td>   </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 30 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson30/note.md"> lesson 30 note </a>  </td>
+  <td>  </td>
+  </tr>
+
 </table>
