@@ -7,7 +7,7 @@
 ## 헬리콥터 엔진 제어 문제 
 - 전압에 따른 속도 측정 문제
 
-|small & noisy|big & noisy|<font color="pink">small & clean</font>|
+|small & noisy|big & noisy|<span style="color:pink">small & clean</span>|
 |:---|:---|:---|
 |<center><img src= "./fig1.png" width="100%"></center>|<center><img src= "./fig2.png" width="100%"></center>|<center><img src= "./fig3.png" width="100%"></center>|
 |- 소규모 데이터, 잡음이 많은 레이블 <br/> - 어떤 선을 그어 전압-RPM 간 관계를 설명할지가 모호|- 빅데이터, 잡음이 많은 레이블 <br/> - 잡음이 많지만 전압-RPM 관계를 설명하는 곡선을 그릴 수 있음| - 소규모 데이터, 깨끗한(일관성 있는)레이블 <br/> - 전압-RPM 관계를 설명하는 함수를 만들 수 있음|
