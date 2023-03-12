@@ -162,7 +162,7 @@
   </tr>
 
   <tr>
-  <td> 29 </td>
+  <td> 29 </td>ß
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson29/note.md"> lesson 29 note </a> </td>
   <td>  </td>
   </tr>
@@ -171,6 +171,28 @@
   <td> 30 </td>
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson30/note.md"> lesson 30 note </a>  </td>
   <td>  </td>
+  </tr>ß
+  <tr>
+  <td> 31 </td>
+  <td>  </td>
+  <td>  </td>
   </tr>
 
+  <tr>
+  <td> 32 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson32/note.md"> lesson 32 note </a>  </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 33 </td>
+  <td>  </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
+  <td> 34 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson34/note.md"> lesson 34 note </a>  </td>
+  <td>  </td>
+  </tr>
 </table>
