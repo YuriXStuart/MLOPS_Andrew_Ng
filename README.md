@@ -198,6 +198,12 @@
   </tr>
 
   <tr>
+  <td> 35 </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson35/note.md"> lesson 35 note </a>  </td>
+  <td>  </td>
+  </tr>
+
+  <tr>
   <td> 36 </td>
   <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson36/note.md"> lesson 36 note </a>  </td>
   <td>  </td>
