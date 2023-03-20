@@ -6,7 +6,7 @@
   <tr>
     <th> Idx </th>
     <th> Notes </th>
-    <td> Course detail </td>
+    <th> Course detail </th>
   </tr>
   <tr>
     <td > 1 </td>
