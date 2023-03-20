@@ -211,7 +211,7 @@
 
   <tr>
   <td> 37 </td>
-  <td>  </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/lesson37/note.md"> lesson 37 note </a>  </td>
   <td>  </td>
   </tr>
 
