@@ -231,7 +231,7 @@
 
   <tr>
   <td> 40 </td>
-  <td>  </td>
+  <td> <a href="https://github.com/YuriXStuart/MLOPS_Andrew_Ng/blob/main/notes/lesson40/note.md"> lesson 40 note </a>  </td>
   <td> Scoping | Milestones and resourcing </td>
   </tr>
 
