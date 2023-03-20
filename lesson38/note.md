@@ -1,6 +1,6 @@
 # lesson 38
 
-## Dilligenve on feasility and value
+## Diligence on feasibility and value
 - 프로젝트가 실제로 실행 가능한지, 얼마나 가치 있는지, 어떻게 수행하면 될지 알아보자.
 
 ### Feasibility: 해당 프로젝트는 기술적으로 실행 가능한가?
@@ -34,4 +34,5 @@
 
 - 프로젝트의 히스토리
     <center><img src= "./fig3.png" width="80%"></center>
+    
     - 분기별 발전률을 모니터링해 프로젝트의 성능 달성 시점을 가늠 가능
